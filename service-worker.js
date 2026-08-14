@@ -1,7 +1,7 @@
 // JB's Gastos — service worker mínimo (cache-first para el "app shell")
 // Sube el número de versión cada vez que subas una nueva versión de index.html
 // para que los móviles descarguen los cambios en vez de servir la copia guardada.
-const CACHE_NAME = 'jb-gastos-v1';
+const CACHE_NAME = 'jb-gastos-v2';
 const APP_SHELL = [
   './',
   './index.html',
